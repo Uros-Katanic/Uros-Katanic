@@ -15,8 +15,8 @@
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" alt="PHP" width="50" height="50"/>
 </p>
 
 
