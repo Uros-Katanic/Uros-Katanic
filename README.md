@@ -2,18 +2,20 @@
 
 ## Student Developer
 
-- 👩‍💻 I'm currently working on hakaton
+- 🌎 I'm based in Montenegro
+- 👩‍💻 I’m looking to collaborate on interesting projects
 - 🌱 I’m currently learning backend
-- 👯 I’m looking to collaborate on interesting project ideas
 - 📫 How to reach me: You can reach me at vedeurai@gmail.com
+
 ## Skills
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+<img src="https://simpleicons.org/icons/java.svg" alt="Java" width="50" height="50"/>
+<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="50" height="50"/>
+<img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="50" height="50"/>
+
 
 
 
