@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 
 
-https://github-readme-stats.vercel.app/api?username=Uros-Katanic&show_icons=true
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uros-Katanic&show_icons=true&theme=radical)
