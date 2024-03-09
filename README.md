@@ -5,7 +5,7 @@
 - 🌎 I'm based in Montenegro
 - 👩‍💻 I’m looking to collaborate on interesting projects
 - 🌱 I’m currently learning backend
-- 📫 How to reach me: You can reach me at vedeurai@gmail.com
+- 📫 You can reach me at vedeurai@gmail.com
 
 ## Skills
 
