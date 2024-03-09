@@ -1,6 +1,6 @@
 # Hello, I'm Uroš!
 
-## About Me
+## Student Developer
 
 - 👩‍💻 I'm currently working on hakaton
 - 🌱 I’m currently learning backend
