@@ -1,4 +1,4 @@
-# Hello, I'm Uroš!
+![image](https://github.com/Uros-Katanic/Uros-Katanic/assets/116459857/64e698ba-2368-493e-9058-5b0e221cba1a)# Hello, I'm Uroš!
 
 ## Student Developer
 
@@ -11,7 +11,7 @@
 
 
 <p float="left">
-  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
