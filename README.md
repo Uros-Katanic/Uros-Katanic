@@ -11,7 +11,7 @@
 
 
 <p float="left">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="50" height="50"/>
+  <img src="" alt="Java" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
