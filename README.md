@@ -9,12 +9,16 @@
 
 ## Skills
 
-<img src="https://simpleicons.org/icons/java.svg" alt="Java" width="50" height="50"/>
-<img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="50" height="50"/>
-<img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="50" height="50"/>
+
+<p float="left">
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="50" height="50"/>
+</p>
+
 
 
 
