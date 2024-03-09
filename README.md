@@ -1,5 +1,5 @@
-#![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
- Hello, I'm Uroš!
+#Hello, I'm Uroš!
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ## Student Developer
 
