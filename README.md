@@ -1,4 +1,4 @@
-![image](https://github.com/Uros-Katanic/Uros-Katanic/assets/116459857/64e698ba-2368-493e-9058-5b0e221cba1a)# Hello, I'm Uroš!
+ Hello, I'm Uroš!
 
 ## Student Developer
 
