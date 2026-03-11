@@ -5,7 +5,7 @@
 
 - 🌎 I'm based in Montenegro
 - 👩‍💻 I’m looking to collaborate on interesting projects
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Artificial intelligence
 - 📫 I'm availabe on ukatanic1@gmail.com
 
 ## Skills
