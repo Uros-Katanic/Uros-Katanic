@@ -23,4 +23,5 @@
 - Collaboration on interesting projects
 - Internships or junior roles
 - Mentorship and learning opportunities
-- ![Stats](https://github-readme-stats.vercel.app/api?username=Uros-Katanic&theme=dark&show_icons=true)
+### 2026 Contributions
+[![GitHub Streak](https://streak-stats.demolab.com?user=Uros-Katanic&theme=dark)](https://git.io/streak-stats)
