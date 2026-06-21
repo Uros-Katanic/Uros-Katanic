@@ -1,27 +1,26 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="30" />, I'm Uroš!
+# Hi 👋, I'm Uroš
 
+**Junior Full-Stack Developer** | Learning & Building
 
-## Student Developer
+### About
+- 📍 Montenegro
+- 🎓 Student Developer exploring web & AI
+- 💼 Looking to collaborate and learn from projects
+- 📧 ukatanic1@gmail.com
 
-- 🌎 I'm based in Montenegro
-- 👩‍💻 I’m looking to collaborate on interesting projects
-- 🌱 I’m currently learning Artificial intelligence
-- 📫 I'm availabe on ukatanic1@gmail.com
+### Tech Stack
+**Languages:** JavaScript, Java, PHP, TypeScript  
+**Frontend:** HTML5, CSS3, React  
+**Backend:** Node.js, basics of databases & APIs  
+**Tools:** Git, Version Control
 
-## Skills
+### Currently Learning
+- Full-stack web development
+- Artificial Intelligence & Machine Learning
+- Best practices in code & system design
 
-
-<p float="left">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="50" height="50"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="50" height="50"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" alt="PHP" width="50" height="50"/>
-</p>
-
-
-
-
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uros-Katanic&show_icons=true&theme=radical)
+### Open To
+- Collaboration on interesting projects
+- Internships or junior roles
+- Mentorship and learning opportunities
+- ![Stats](https://github-readme-stats.vercel.app/api?username=Uros-Katanic&theme=dark&show_icons=true)
