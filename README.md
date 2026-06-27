@@ -24,4 +24,7 @@
 - Internships or junior roles
 - Mentorship and learning opportunities
 ### 2026 Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=Uros-Katanic&theme=dark)](https://git.io/streak-stats)
+
+![Uroš's GitHub stats 2026](https://github-readme-stats.vercel.app/api?username=Uros-Katanic&show_icons=true&theme=dark&commits_year=2026)
+
+![2026 Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uros-Katanic&theme=github-dark&from=2026-01-01&to=2026-12-31&custom_title=2026%20Contribution%20Graph)
